@@ -218,12 +218,6 @@ nav .container {
 .card h3 { font-size: 1.12rem; color: #fff; margin-bottom: 8px; font-weight: 650; }
 .card p  { color: var(--text-dim); font-size: .92rem; line-height: 1.65; }
 
-/* ── Stats ──────────────────────────────────────── */
-.stats { display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; padding: 40px 0; }
-.stat { text-align: center; }
-.stat-value { font-size: 2rem; font-weight: 800; color: #fff; }
-.stat-label { font-size: .82rem; color: var(--text-dim); margin-top: 4px; }
-
 /* ── Get Started Steps ──────────────────────────── */
 .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; }
 
